@@ -1,0 +1,5 @@
+netsh advfirewall reset
+
+rem Resets the Firewall from Malicious Changes
+
+pause
